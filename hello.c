@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
 	printf("hello, world\n");
-	printf("hello, mother!\n");
-	printf("hello, brother\n");
-	printf("hello, sister!\n");
+	for (int i=0; i < 5; ++i) {
+		printf("The number is %d\n");
+	}
 	return 0;
 }
