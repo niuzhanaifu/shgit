@@ -1,7 +1,5 @@
 #include <stdio.h>
 int main(){
-    if(1){
-        printf("my best friend\n");
-    }
+    printf("hello\n");
     return 0;
 }
