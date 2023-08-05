@@ -1,0 +1,1 @@
+#define MONDAY 1
