@@ -1,8 +1,5 @@
 #include <stdio.h>
 int main(){
-	printf("hello, brother!\n");
-	printf("hello, world");
-	printf("hello,sister!\n");
-	while(1);
+	printf("hello, world\n");
 	return 0;
 }

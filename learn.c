@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main(){
-    printf("hello\n");
-    if(1){
-        printf("my best friend\n");
+    int sum = 0;
+    for (int i=0; i < 10; ++i) {
+        sum++;
     }
-    printf(:hello\n);
+    printf("the sum = %d\n", sum);
     return 0;
 }
